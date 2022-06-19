@@ -7,7 +7,6 @@ Junior software developer
 
 * 🌍  I'm based in Belgrade
 * ✉️  You can contact me at [lazeta998@gmail.com](mailto:lazeta998@gmail.com)
-* 🧠  I'm learning Django
 
 ### Skills
 
