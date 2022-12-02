@@ -22,6 +22,7 @@ Junior software developer
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://github.com/TIM168/skill_icon/blob/main/C%23/c-sharp.svg" width="36" height="36" alt="csharp" /></a>
 <a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/DotNet.svg" width="36" height="36" alt="dotnet" /></a>
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" width="36" height="36" alt="reactjs" /></a>
 </p>
 
 
